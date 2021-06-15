@@ -1,0 +1,22 @@
+[
+  {
+    "lang" : "EN",
+    "theme" : "BLUE",
+    "shopCode" : "enbl"
+  },
+  {
+    "lang" : "FR",
+    "theme" : "BLUE",
+    "shopCode" : "frbl"
+  },
+  {
+    "lang" : "EN",
+    "theme" : "RED",
+    "shopCode" : "enrd"
+  },
+  {
+    "lang" : "FR",
+    "theme" : "RED",
+    "shopCode" : "frrd"
+  }
+]

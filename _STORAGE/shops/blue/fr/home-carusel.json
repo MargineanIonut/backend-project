@@ -1,0 +1,20 @@
+{
+  "title": "Salut, from FRANCE",
+  "slides": [
+    {
+      "url": "https://via.placeholder.com/728x90.png?text=Visit+First",
+      "alt": "Alt 1",
+      "active": true
+    },
+    {
+      "url": "https://via.placeholder.com/728x90.png?text=Visit+Second",
+      "alt": "Alt 1",
+      "active": false
+    },
+    {
+      "url": "https://via.placeholder.com/728x90.png?text=Visit+Third",
+      "alt": "Alt 3",
+      "active": false
+    }
+  ]
+}
